@@ -22,7 +22,7 @@ main {
 	--perspective: calc(var(--font-size) * 10);
 	--bg: hsl(210, 100%, 56%);
 	--bg-accent: hsl(210, 100%, 46%);
-	--duration: 800ms;
+	--duration: 2000ms;
 	--ease: cubic-bezier(0.3, 1.4, 0.65, 1);
 
 	cursor: pointer;
